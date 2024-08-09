@@ -1,2 +1,2 @@
 # LinguagemProgramcaoEmC
- Curso: Programdor em Computadores - 2024
+ Curso: Programador em Computadores - 2024  NEM
